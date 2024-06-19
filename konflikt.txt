@@ -1,1 +1,3 @@
-pochadzam z partizanskeho
+>>>>>>> Stashed changes
+pochadzam z partizánskeho
+pochadzam zo Serede
