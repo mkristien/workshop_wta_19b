@@ -2,3 +2,7 @@ pochadzam z partizanskeho
 Nový test
 mam rad bratislavu
 
+
+>>>>>>> Stashed changes
+pochadzam z partizánskeho
+pochadzam zo Serede
