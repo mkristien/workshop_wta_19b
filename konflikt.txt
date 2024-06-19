@@ -1,7 +1,11 @@
+<<<<<<< Updated upstream
 pochadzam z partizanskeho
 Nový test
 mam rad bratislavu
 
+
+>>>>>>> Stashed changes
+=======
 
 >>>>>>> Stashed changes
 pochadzam z partizánskeho
