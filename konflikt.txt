@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 mam rad bratislavu
 
+=======
+pochadzam z partizánskeho
+pochadzam zo Serede
+>>>>>>> Stashed changes
