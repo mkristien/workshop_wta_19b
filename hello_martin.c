@@ -1,4 +1,4 @@
 
 int main() {
-    printf("ahoj ajtyvit\n")
+    printf("ahoj ajtyvit\n");
 }
